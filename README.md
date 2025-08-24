@@ -1,2 +1,3 @@
 # bookbot
-Guided project from boot.dev for front end application practice
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
